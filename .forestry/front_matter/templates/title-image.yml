@@ -1,0 +1,11 @@
+---
+label: Title Image
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: Test
+  name: test
+- type: file
+  label: Image
+  name: image
