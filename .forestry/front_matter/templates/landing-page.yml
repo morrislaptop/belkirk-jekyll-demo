@@ -83,6 +83,7 @@ fields:
   name: blocks
   label: Blocks
   template_types:
+  - what-up
   - title-image
 pages:
 - index.md
